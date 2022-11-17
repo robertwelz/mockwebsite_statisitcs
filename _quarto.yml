@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Mockwebsite_Statistics"
+  sidebar: 
+    style: "floating"
+    title: "KG Statistik"
+    search: true
+    contents: 
+      - section: "Statistik 1"
+        contents: 
+          - index.qmd
+          - basics-lage.qmd
+          - basics-streuung.qmd
+      - section: "Statistik 2"
+        contents: 
+          - basics-recode.qmd
+          - basics-regress.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

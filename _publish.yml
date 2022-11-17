@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e517a319-1fbe-4e41-a93d-8eb15bb8a94c
+      url: 'https://quartopub.com/sites/robertwelz/mockwebsite_statistics'
